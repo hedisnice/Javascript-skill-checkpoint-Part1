@@ -1,1 +1,3 @@
-# Javascript-skill-checkpoint-Part1
+# JavaScript Skill Checkpoint (First Half)
+
+แบบทดสอบ JavaScript ครึ่งแรก
